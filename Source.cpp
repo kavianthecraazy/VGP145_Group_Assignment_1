@@ -4,9 +4,5 @@ using namespace std;
 
 void main()
 {
-
-	cout << "Mohamad El-chayeb" << endl;
-
-	system("pause");
-	system("cls");
+	cout << "Sup bithces" << endl;
 }
